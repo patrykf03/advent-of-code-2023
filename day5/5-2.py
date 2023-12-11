@@ -24,18 +24,23 @@ def getSeed(maps, location):
                 break 
     return currentNumber
 
-# reverse bruteforce the mf
-currentLocation = 0
-# check if found
-found = False
 
-while found != True:
-    currentLocation+=1 # add 1 to get next
-    # get seed from curent location
-    seed = getSeed(maps, currentLocation)
-    # check if our seed is in any of the seeds
-    for givenSeed in seedsLists:
-        if int(givenSeed[0]) <= seed <= givenSeed[1]:
-            found=True
-            break
-print(currentLocation)
+def part2():
+    global maps
+    global seedsLists
+    # reverse bruteforce the mf
+    currentLocation = 0
+    # check if found
+    found = False
+    while found != True:
+        currentLocation+=1 # add 1 to get next
+        # get seed from curent location
+        seed = getSeed(maps, currentLocation)
+        # check if our seed is in any of the seeds
+        for givenSeed in seedsLists:
+            if int(givenSeed[0]) <= seed <= givenSeed[1]:
+                found=True
+                break
+    return currentLocation
+
+print(part2())
