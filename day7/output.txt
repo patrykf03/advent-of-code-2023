@@ -1,0 +1,2363 @@
+-------------------------
+DBDLJ
+-------------------------
+CADKM
+replacing A with C, CADKM -> CCDKM
+-------------------------
+IDKHE
+-------------------------
+BEGBB
+-------------------------
+KDKKK
+-------------------------
+CAGGG
+replacing A with G, CAGGG -> CGGGG
+-------------------------
+CGFHG
+-------------------------
+HAFJL
+replacing A with F, HAFJL -> HFFJL
+-------------------------
+IIJKM
+-------------------------
+EHCHI
+-------------------------
+MMMKM
+-------------------------
+CCMFF
+-------------------------
+BLBLG
+-------------------------
+CGGGF
+-------------------------
+MJMME
+-------------------------
+JDFLM
+-------------------------
+IIAIJ
+replacing A with I, IIAIJ -> IIIIJ
+-------------------------
+KDKGK
+-------------------------
+IAMDM
+replacing A with M, IAMDM -> IMMDM
+-------------------------
+JJBLK
+-------------------------
+JJMJH
+-------------------------
+BHABH
+replacing A with B, BHABH -> BHBBH
+-------------------------
+EEBBB
+-------------------------
+FGFFF
+-------------------------
+IIICC
+-------------------------
+FJFAF
+replacing A with F, FJFAF -> FJFFF
+-------------------------
+LLLIL
+-------------------------
+MILLI
+-------------------------
+KJKHH
+-------------------------
+IJILJ
+-------------------------
+JFCAI
+replacing A with C, JFCAI -> JFCCI
+-------------------------
+FAACF
+replacing A with F, FAACF -> FFFCF
+-------------------------
+BBIJB
+-------------------------
+AIKAE
+replacing A with K, AIKAE -> KIKKE
+-------------------------
+HLCKF
+-------------------------
+KKFKC
+-------------------------
+LHALG
+replacing A with L, LHALG -> LHLLG
+-------------------------
+CBEBC
+-------------------------
+JKCCA
+replacing A with C, JKCCA -> JKCCC
+-------------------------
+ABBGA
+replacing A with B, ABBGA -> BBBGB
+-------------------------
+HCEAA
+replacing A with H, HCEAA -> HCEHH
+-------------------------
+JAJBB
+replacing A with B, JAJBB -> JBJBB
+-------------------------
+KKKGI
+-------------------------
+GGGGF
+-------------------------
+GHJKB
+-------------------------
+BGABG
+replacing A with B, BGABG -> BGBBG
+-------------------------
+MEMEM
+-------------------------
+HHDDD
+-------------------------
+JGJJJ
+-------------------------
+MLJLL
+-------------------------
+CFGHA
+replacing A with C, CFGHA -> CFGHC
+-------------------------
+KFAKK
+replacing A with K, KFAKK -> KFKKK
+-------------------------
+FDDJF
+-------------------------
+EIFII
+-------------------------
+MIHAH
+replacing A with H, MIHAH -> MIHHH
+-------------------------
+DHDFF
+-------------------------
+FFAHE
+replacing A with F, FFAHE -> FFFHE
+-------------------------
+LLDEL
+-------------------------
+HHGGG
+-------------------------
+BHEFE
+-------------------------
+JBDJF
+-------------------------
+GGLHD
+-------------------------
+EMCBJ
+-------------------------
+KKKBH
+-------------------------
+MCCCM
+-------------------------
+CGCAC
+replacing A with C, CGCAC -> CGCCC
+-------------------------
+AKALD
+replacing A with L, AKALD -> LKLLD
+-------------------------
+ILDDL
+-------------------------
+LALLA
+replacing A with L, LALLA -> LLLLL
+-------------------------
+KFMMM
+-------------------------
+DIBMI
+-------------------------
+HKFIK
+-------------------------
+FLFLJ
+-------------------------
+KLELE
+-------------------------
+AMBED
+replacing A with B, AMBED -> BMBED
+-------------------------
+AJLII
+replacing A with I, AJLII -> IJLII
+-------------------------
+HGHHH
+-------------------------
+EECKF
+-------------------------
+IEEGG
+-------------------------
+GGGGE
+-------------------------
+MBBCM
+-------------------------
+GAGAH
+replacing A with G, GAGAH -> GGGGH
+-------------------------
+DHJME
+-------------------------
+CJAEM
+replacing A with C, CJAEM -> CJCEM
+-------------------------
+FFFIK
+-------------------------
+FJFJA
+replacing A with F, FJFJA -> FJFJF
+-------------------------
+GGIFI
+-------------------------
+FFIFF
+-------------------------
+EEIHE
+-------------------------
+HJJJB
+-------------------------
+IGGGG
+-------------------------
+FMHJE
+-------------------------
+CECMJ
+-------------------------
+LDGMB
+-------------------------
+BBMBB
+-------------------------
+FGEAD
+replacing A with D, FGEAD -> FGEDD
+-------------------------
+GMCMC
+-------------------------
+FAEMB
+replacing A with B, FAEMB -> FBEMB
+-------------------------
+BBBBG
+-------------------------
+KGMKM
+-------------------------
+BCJDB
+-------------------------
+FLEHK
+-------------------------
+LEAFI
+replacing A with E, LEAFI -> LEEFI
+-------------------------
+ALJDL
+replacing A with L, ALJDL -> LLJDL
+-------------------------
+JEJIJ
+-------------------------
+DADCD
+replacing A with D, DADCD -> DDDCD
+-------------------------
+LLMKM
+-------------------------
+JJJMJ
+-------------------------
+JBGBB
+-------------------------
+CMHAC
+replacing A with C, CMHAC -> CMHCC
+-------------------------
+LECJC
+-------------------------
+JDGJI
+-------------------------
+GCBFI
+-------------------------
+AFMLH
+replacing A with F, AFMLH -> FFMLH
+-------------------------
+DDEDD
+-------------------------
+MHCMH
+-------------------------
+JBFDK
+-------------------------
+CCGCB
+-------------------------
+FLEDD
+-------------------------
+AHJJJ
+replacing A with J, AHJJJ -> JHJJJ
+-------------------------
+KKLLE
+-------------------------
+MAIHJ
+replacing A with H, MAIHJ -> MHIHJ
+-------------------------
+MHDGJ
+-------------------------
+AFDFL
+replacing A with F, AFDFL -> FFDFL
+-------------------------
+IHIII
+-------------------------
+MMIAM
+replacing A with M, MMIAM -> MMIMM
+-------------------------
+FLCJA
+replacing A with C, FLCJA -> FLCJC
+-------------------------
+GGAJG
+replacing A with G, GGAJG -> GGGJG
+-------------------------
+LEIDA
+replacing A with D, LEIDA -> LEIDD
+-------------------------
+ECLCC
+-------------------------
+FFDMM
+-------------------------
+AJGMM
+replacing A with M, AJGMM -> MJGMM
+-------------------------
+KHHHF
+-------------------------
+LIEII
+-------------------------
+CCACJ
+replacing A with C, CCACJ -> CCCCJ
+-------------------------
+EEEEA
+replacing A with E, EEEEA -> EEEEE
+-------------------------
+MMDEF
+-------------------------
+HHGMM
+-------------------------
+GJEJJ
+-------------------------
+KKMLL
+-------------------------
+IHIIE
+-------------------------
+HHIHG
+-------------------------
+JEJEJ
+-------------------------
+GJMBA
+replacing A with B, GJMBA -> GJMBB
+-------------------------
+KKEHA
+replacing A with K, KKEHA -> KKEHK
+-------------------------
+FJFFJ
+-------------------------
+JHHKJ
+-------------------------
+CJCCK
+-------------------------
+ILBLG
+-------------------------
+BJHHD
+-------------------------
+CCECE
+-------------------------
+HFHML
+-------------------------
+KKKKG
+-------------------------
+BBJMB
+-------------------------
+LJHDB
+-------------------------
+FEICB
+-------------------------
+LJBGF
+-------------------------
+EDEED
+-------------------------
+GMGMF
+-------------------------
+JJAJK
+replacing A with J, JJAJK -> JJJJK
+-------------------------
+AGMIH
+replacing A with G, AGMIH -> GGMIH
+-------------------------
+MAFGK
+replacing A with F, MAFGK -> MFFGK
+-------------------------
+MHMHH
+-------------------------
+IIEEA
+replacing A with E, IIEEA -> IIEEE
+-------------------------
+JJJDJ
+-------------------------
+CFFFB
+-------------------------
+BBBBA
+replacing A with B, BBBBA -> BBBBB
+-------------------------
+AHIIH
+replacing A with H, AHIIH -> HHIIH
+-------------------------
+JFJFB
+-------------------------
+MBDAC
+replacing A with B, MBDAC -> MBDBC
+-------------------------
+MMMMB
+-------------------------
+CFEFF
+-------------------------
+BJBGJ
+-------------------------
+LMLJM
+-------------------------
+HDAKC
+replacing A with C, HDAKC -> HDCKC
+-------------------------
+KJKBJ
+-------------------------
+FFAFF
+replacing A with F, FFAFF -> FFFFF
+-------------------------
+JCKDG
+-------------------------
+MFMMM
+-------------------------
+JIIJA
+replacing A with I, JIIJA -> JIIJI
+-------------------------
+HHHJA
+replacing A with H, HHHJA -> HHHJH
+-------------------------
+FAEKB
+replacing A with B, FAEKB -> FBEKB
+-------------------------
+AIDII
+replacing A with I, AIDII -> IIDII
+-------------------------
+CILLL
+-------------------------
+KMKKM
+-------------------------
+GEGGE
+-------------------------
+HHDMJ
+-------------------------
+CJFCF
+-------------------------
+IGFFF
+-------------------------
+AEJEJ
+replacing A with E, AEJEJ -> EEJEJ
+-------------------------
+CCBJI
+-------------------------
+ADLLL
+replacing A with L, ADLLL -> LDLLL
+-------------------------
+IFJFI
+-------------------------
+KKKCH
+-------------------------
+GDMGD
+-------------------------
+AAAAA
+replacing A with M, AAAAA -> MMMMM
+-------------------------
+MMCMB
+-------------------------
+BAMII
+replacing A with I, BAMII -> BIMII
+-------------------------
+BILLB
+-------------------------
+DJDAK
+replacing A with D, DJDAK -> DJDDK
+-------------------------
+IDDAI
+replacing A with D, IDDAI -> IDDDI
+-------------------------
+JKJFF
+-------------------------
+BEBIE
+-------------------------
+EIADE
+replacing A with E, EIADE -> EIEDE
+-------------------------
+FBHDF
+-------------------------
+DDDLD
+-------------------------
+HKAKK
+replacing A with K, HKAKK -> HKKKK
+-------------------------
+CCKDC
+-------------------------
+LLCCC
+-------------------------
+JKKIF
+-------------------------
+BMBMI
+-------------------------
+DAEGD
+replacing A with D, DAEGD -> DDEGD
+-------------------------
+FMFMM
+-------------------------
+DMFDF
+-------------------------
+CCEGE
+-------------------------
+IMIHI
+-------------------------
+DBEDI
+-------------------------
+MMMHH
+-------------------------
+MEMMA
+replacing A with M, MEMMA -> MEMMM
+-------------------------
+AHDBL
+replacing A with B, AHDBL -> BHDBL
+-------------------------
+AIIMI
+replacing A with I, AIIMI -> IIIMI
+-------------------------
+EFAIM
+replacing A with E, EFAIM -> EFEIM
+-------------------------
+AJEGD
+replacing A with D, AJEGD -> DJEGD
+-------------------------
+EEEDE
+-------------------------
+EEEBE
+-------------------------
+MCLMC
+-------------------------
+DAHBH
+replacing A with H, DAHBH -> DHHBH
+-------------------------
+CCKAC
+replacing A with C, CCKAC -> CCKCC
+-------------------------
+EKKKM
+-------------------------
+KIAAK
+replacing A with K, KIAAK -> KIKKK
+-------------------------
+HBEFA
+replacing A with B, HBEFA -> HBEFB
+-------------------------
+FKDJK
+-------------------------
+KEMME
+-------------------------
+AHJLM
+replacing A with H, AHJLM -> HHJLM
+-------------------------
+GEEEG
+-------------------------
+LMBKC
+-------------------------
+DDIDD
+-------------------------
+DFMJA
+replacing A with D, DFMJA -> DFMJD
+-------------------------
+MHMIJ
+-------------------------
+CKCCM
+-------------------------
+HKHHK
+-------------------------
+BDDCC
+-------------------------
+BCCCC
+-------------------------
+EGKFJ
+-------------------------
+LJDFA
+replacing A with D, LJDFA -> LJDFD
+-------------------------
+HDJCF
+-------------------------
+IICCC
+-------------------------
+LELIG
+-------------------------
+KKKGF
+-------------------------
+CCIAF
+replacing A with C, CCIAF -> CCICF
+-------------------------
+BBEBB
+-------------------------
+BDLLA
+replacing A with L, BDLLA -> BDLLL
+-------------------------
+FLHHH
+-------------------------
+DKDDK
+-------------------------
+BLBBB
+-------------------------
+HCDID
+-------------------------
+JAELM
+replacing A with E, JAELM -> JEELM
+-------------------------
+JFAEL
+replacing A with E, JFAEL -> JFEEL
+-------------------------
+AKJKK
+replacing A with K, AKJKK -> KKJKK
+-------------------------
+MEAEB
+replacing A with E, MEAEB -> MEEEB
+-------------------------
+AGELF
+replacing A with E, AGELF -> EGELF
+-------------------------
+LJGLL
+-------------------------
+GLAGL
+replacing A with G, GLAGL -> GLGGL
+-------------------------
+ABLMB
+replacing A with B, ABLMB -> BBLMB
+-------------------------
+CCCDC
+-------------------------
+BIIII
+-------------------------
+HHHHB
+-------------------------
+BLFFF
+-------------------------
+GGGGJ
+-------------------------
+IIIFF
+-------------------------
+DDCAJ
+replacing A with D, DDCAJ -> DDCDJ
+-------------------------
+LBLAK
+replacing A with L, LBLAK -> LBLLK
+-------------------------
+LDJCF
+-------------------------
+GAKKA
+replacing A with K, GAKKA -> GKKKK
+-------------------------
+EEELA
+replacing A with E, EEELA -> EEELE
+-------------------------
+GLEKH
+-------------------------
+BCGDC
+-------------------------
+LLMLM
+-------------------------
+AIABI
+replacing A with I, AIABI -> IIIBI
+-------------------------
+EJJEE
+-------------------------
+CDELJ
+-------------------------
+EJKBH
+-------------------------
+AGJFA
+replacing A with J, AGJFA -> JGJFJ
+-------------------------
+CIJAG
+replacing A with C, CIJAG -> CIJCG
+-------------------------
+FKAIB
+replacing A with B, FKAIB -> FKBIB
+-------------------------
+MBHAL
+replacing A with B, MBHAL -> MBHBL
+-------------------------
+DDDHB
+-------------------------
+MABLE
+replacing A with B, MABLE -> MBBLE
+-------------------------
+IDIDD
+-------------------------
+ABIMD
+replacing A with B, ABIMD -> BBIMD
+-------------------------
+JGICB
+-------------------------
+GMDFH
+-------------------------
+MJLEJ
+-------------------------
+KKKAA
+replacing A with K, KKKAA -> KKKKK
+-------------------------
+EIHAM
+replacing A with E, EIHAM -> EIHEM
+-------------------------
+EBBDB
+-------------------------
+AFAFF
+replacing A with F, AFAFF -> FFFFF
+-------------------------
+LJAJB
+replacing A with J, LJAJB -> LJJJB
+-------------------------
+EEHHE
+-------------------------
+JJJJB
+-------------------------
+CMGEG
+-------------------------
+BMCBB
+-------------------------
+HEHMA
+replacing A with H, HEHMA -> HEHMH
+-------------------------
+EEEEG
+-------------------------
+MKHAI
+replacing A with H, MKHAI -> MKHHI
+-------------------------
+CFGEK
+-------------------------
+GLKAH
+replacing A with G, GLKAH -> GLKGH
+-------------------------
+HEMGK
+-------------------------
+CACAC
+replacing A with C, CACAC -> CCCCC
+-------------------------
+FMFMA
+replacing A with F, FMFMA -> FMFMF
+-------------------------
+HDCHC
+-------------------------
+HCCHH
+-------------------------
+FFFFL
+-------------------------
+EGBHM
+-------------------------
+AEEEA
+replacing A with E, AEEEA -> EEEEE
+-------------------------
+GJKKK
+-------------------------
+FJJJF
+-------------------------
+KGCIK
+-------------------------
+EHJJG
+-------------------------
+FFALF
+replacing A with F, FFALF -> FFFLF
+-------------------------
+GGIKI
+-------------------------
+MAMAM
+replacing A with M, MAMAM -> MMMMM
+-------------------------
+HHACI
+replacing A with H, HHACI -> HHHCI
+-------------------------
+LBEKM
+-------------------------
+DDBAD
+replacing A with D, DDBAD -> DDBDD
+-------------------------
+ILHLI
+-------------------------
+MMMMG
+-------------------------
+FCHAF
+replacing A with F, FCHAF -> FCHFF
+-------------------------
+HHHAL
+replacing A with H, HHHAL -> HHHHL
+-------------------------
+DDDJD
+-------------------------
+KDMEL
+-------------------------
+IMIMI
+-------------------------
+JJELH
+-------------------------
+IIIIJ
+-------------------------
+MHMHA
+replacing A with H, MHMHA -> MHMHH
+-------------------------
+AIIIC
+replacing A with I, AIIIC -> IIIIC
+-------------------------
+HFGMI
+-------------------------
+AGKHM
+replacing A with G, AGKHM -> GGKHM
+-------------------------
+ACGJJ
+replacing A with J, ACGJJ -> JCGJJ
+-------------------------
+GGBIG
+-------------------------
+BIKJD
+-------------------------
+GKGFG
+-------------------------
+JJJAD
+replacing A with J, JJJAD -> JJJJD
+-------------------------
+EIEEE
+-------------------------
+DADDA
+replacing A with D, DADDA -> DDDDD
+-------------------------
+FIAHG
+replacing A with F, FIAHG -> FIFHG
+-------------------------
+IIDIE
+-------------------------
+EKJEA
+replacing A with E, EKJEA -> EKJEE
+-------------------------
+KGKLF
+-------------------------
+BAABE
+replacing A with B, BAABE -> BBBBE
+-------------------------
+HKFHF
+-------------------------
+KKIFF
+-------------------------
+AAJJJ
+replacing A with J, AAJJJ -> JJJJJ
+-------------------------
+LIBEC
+-------------------------
+EIMKC
+-------------------------
+ECDHB
+-------------------------
+BLLLB
+-------------------------
+HAFMA
+replacing A with M, HAFMA -> HMFMM
+-------------------------
+DHJJI
+-------------------------
+KFDKH
+-------------------------
+MMMAF
+replacing A with M, MMMAF -> MMMMF
+-------------------------
+BAGBK
+replacing A with B, BAGBK -> BBGBK
+-------------------------
+DICLB
+-------------------------
+DJAHF
+replacing A with D, DJAHF -> DJDHF
+-------------------------
+CBLBL
+-------------------------
+FEEFE
+-------------------------
+IHIAL
+replacing A with I, IHIAL -> IHIIL
+-------------------------
+JBCEL
+-------------------------
+BGMKB
+-------------------------
+CEDJG
+-------------------------
+LGGGA
+replacing A with G, LGGGA -> LGGGG
+-------------------------
+HAAAA
+replacing A with H, HAAAA -> HHHHH
+-------------------------
+BGCBI
+-------------------------
+FIHIB
+-------------------------
+CGIGA
+replacing A with G, CGIGA -> CGIGG
+-------------------------
+EIGGM
+-------------------------
+JEHLI
+-------------------------
+JJJAJ
+replacing A with J, JJJAJ -> JJJJJ
+-------------------------
+GEKDF
+-------------------------
+IKIII
+-------------------------
+HEABM
+replacing A with B, HEABM -> HEBBM
+-------------------------
+CCCFH
+-------------------------
+LGLLL
+-------------------------
+JEDEI
+-------------------------
+HHHAE
+replacing A with H, HHHAE -> HHHHE
+-------------------------
+FFGFK
+-------------------------
+EFKAJ
+replacing A with E, EFKAJ -> EFKEJ
+-------------------------
+JLKAL
+replacing A with L, JLKAL -> JLKLL
+-------------------------
+IKJCJ
+-------------------------
+EELLA
+replacing A with E, EELLA -> EELLE
+-------------------------
+CCEGA
+replacing A with C, CCEGA -> CCEGC
+-------------------------
+LLFHE
+-------------------------
+LDJLL
+-------------------------
+CCBIF
+-------------------------
+BJDLG
+-------------------------
+CBBCB
+-------------------------
+BLHME
+-------------------------
+ABKIH
+replacing A with B, ABKIH -> BBKIH
+-------------------------
+BJBBJ
+-------------------------
+CKCKA
+replacing A with C, CKCKA -> CKCKC
+-------------------------
+KCICL
+-------------------------
+CMMMM
+-------------------------
+IACGD
+replacing A with C, IACGD -> ICCGD
+-------------------------
+GMGGG
+-------------------------
+CACEE
+replacing A with C, CACEE -> CCCEE
+-------------------------
+IJJJF
+-------------------------
+JFKEJ
+-------------------------
+KBHGK
+-------------------------
+HIHHJ
+-------------------------
+CLKEB
+-------------------------
+GJJJG
+-------------------------
+MALLG
+replacing A with L, MALLG -> MLLLG
+-------------------------
+MMEEE
+-------------------------
+KBKAK
+replacing A with K, KBKAK -> KBKKK
+-------------------------
+FHHFH
+-------------------------
+IKCDK
+-------------------------
+EHHLH
+-------------------------
+DGAEC
+replacing A with C, DGAEC -> DGCEC
+-------------------------
+KADDM
+replacing A with D, KADDM -> KDDDM
+-------------------------
+CGIGG
+-------------------------
+HHAAH
+replacing A with H, HHAAH -> HHHHH
+-------------------------
+CFFFC
+-------------------------
+JFIMH
+-------------------------
+DGMMD
+-------------------------
+CFDDD
+-------------------------
+BLBBL
+-------------------------
+EFEJA
+replacing A with E, EFEJA -> EFEJE
+-------------------------
+CCKCC
+-------------------------
+ABHAL
+replacing A with L, ABHAL -> LBHLL
+-------------------------
+CHKDK
+-------------------------
+JGGGJ
+-------------------------
+KLKJK
+-------------------------
+CCBGA
+replacing A with C, CCBGA -> CCBGC
+-------------------------
+BJDMI
+-------------------------
+FMGLD
+-------------------------
+IIHHI
+-------------------------
+LBKMH
+-------------------------
+GFDFG
+-------------------------
+EAAME
+replacing A with E, EAAME -> EEEME
+-------------------------
+KALKI
+replacing A with K, KALKI -> KKLKI
+-------------------------
+KKKHK
+-------------------------
+IFAFC
+replacing A with F, IFAFC -> IFFFC
+-------------------------
+FBDAG
+replacing A with B, FBDAG -> FBDBG
+-------------------------
+HFFFF
+-------------------------
+MDDMM
+-------------------------
+JBIHG
+-------------------------
+FDMFE
+-------------------------
+KFGGJ
+-------------------------
+JDGFJ
+-------------------------
+AMFJK
+replacing A with F, AMFJK -> FMFJK
+-------------------------
+LLALL
+replacing A with L, LLALL -> LLLLL
+-------------------------
+CCCFC
+-------------------------
+FKFKH
+-------------------------
+GGDGD
+-------------------------
+AFBCA
+replacing A with F, AFBCA -> FFBCF
+-------------------------
+KCAJJ
+replacing A with J, KCAJJ -> KCJJJ
+-------------------------
+EEGHG
+-------------------------
+MMMKK
+-------------------------
+EBCDB
+-------------------------
+GGIJG
+-------------------------
+ABBAB
+replacing A with B, ABBAB -> BBBBB
+-------------------------
+CACKE
+replacing A with C, CACKE -> CCCKE
+-------------------------
+ILLAL
+replacing A with L, ILLAL -> ILLLL
+-------------------------
+DKADB
+replacing A with D, DKADB -> DKDDB
+-------------------------
+FFFKF
+-------------------------
+DKDLH
+-------------------------
+JDBCF
+-------------------------
+KAIKH
+replacing A with K, KAIKH -> KKIKH
+-------------------------
+IIIIE
+-------------------------
+BHBHC
+-------------------------
+DKIJH
+-------------------------
+IFHJB
+-------------------------
+BDDDD
+-------------------------
+HDFLE
+-------------------------
+CGLJA
+replacing A with C, CGLJA -> CGLJC
+-------------------------
+AGHHH
+replacing A with H, AGHHH -> HGHHH
+-------------------------
+LFJGC
+-------------------------
+JLLJJ
+-------------------------
+EIICI
+-------------------------
+FBBBB
+-------------------------
+GCGEG
+-------------------------
+DDFGG
+-------------------------
+LLKAL
+replacing A with L, LLKAL -> LLKLL
+-------------------------
+LDMAB
+replacing A with B, LDMAB -> LDMBB
+-------------------------
+GACAG
+replacing A with G, GACAG -> GGCGG
+-------------------------
+MFILE
+-------------------------
+BMBAA
+replacing A with B, BMBAA -> BMBBB
+-------------------------
+JCDMK
+-------------------------
+CLLAI
+replacing A with L, CLLAI -> CLLLI
+-------------------------
+GHDDG
+-------------------------
+GBGBG
+-------------------------
+LLECE
+-------------------------
+BEEFB
+-------------------------
+CKHEE
+-------------------------
+KDFLH
+-------------------------
+IKKII
+-------------------------
+JBMDG
+-------------------------
+DGDII
+-------------------------
+ADBGI
+replacing A with B, ADBGI -> BDBGI
+-------------------------
+BKKBK
+-------------------------
+DDHDJ
+-------------------------
+FFFAE
+replacing A with F, FFFAE -> FFFFE
+-------------------------
+FKKFG
+-------------------------
+GFLJD
+-------------------------
+CEGKH
+-------------------------
+GLLBK
+-------------------------
+BAFFB
+replacing A with B, BAFFB -> BBFFB
+-------------------------
+EMHEH
+-------------------------
+IEEJA
+replacing A with E, IEEJA -> IEEJE
+-------------------------
+LIBGK
+-------------------------
+HAKMJ
+replacing A with H, HAKMJ -> HHKMJ
+-------------------------
+HMCKA
+replacing A with C, HMCKA -> HMCKC
+-------------------------
+AMCLE
+replacing A with C, AMCLE -> CMCLE
+-------------------------
+EEKEE
+-------------------------
+DHHHH
+-------------------------
+IBCAB
+replacing A with B, IBCAB -> IBCBB
+-------------------------
+KFKEL
+-------------------------
+BIIBI
+-------------------------
+BIDFF
+-------------------------
+JKKKK
+-------------------------
+IIAHB
+replacing A with I, IIAHB -> IIIHB
+-------------------------
+LHDMB
+-------------------------
+ICDIC
+-------------------------
+EEADF
+replacing A with E, EEADF -> EEEDF
+-------------------------
+DDIAD
+replacing A with D, DDIAD -> DDIDD
+-------------------------
+LCCCB
+-------------------------
+AAHCL
+replacing A with L, AAHCL -> LLHCL
+-------------------------
+FADJF
+replacing A with F, FADJF -> FFDJF
+-------------------------
+FJFEE
+-------------------------
+CIHGG
+-------------------------
+GCMMG
+-------------------------
+LFFFD
+-------------------------
+DDJIC
+-------------------------
+KICGL
+-------------------------
+ABADJ
+replacing A with J, ABADJ -> JBJDJ
+-------------------------
+EFMKI
+-------------------------
+KDJAK
+replacing A with K, KDJAK -> KDJKK
+-------------------------
+GLGGD
+-------------------------
+FFGBA
+replacing A with F, FFGBA -> FFGBF
+-------------------------
+AEHEM
+replacing A with E, AEHEM -> EEHEM
+-------------------------
+HEAHG
+replacing A with H, HEAHG -> HEHHG
+-------------------------
+FMCLA
+replacing A with C, FMCLA -> FMCLC
+-------------------------
+DEEEI
+-------------------------
+BEADD
+replacing A with D, BEADD -> BEDDD
+-------------------------
+FLFLE
+-------------------------
+CGGCG
+-------------------------
+GHHHG
+-------------------------
+ACFCL
+replacing A with C, ACFCL -> CCFCL
+-------------------------
+ECCJJ
+-------------------------
+DIGJL
+-------------------------
+BBIIB
+-------------------------
+DHHFD
+-------------------------
+KEMLF
+-------------------------
+LLKLL
+-------------------------
+EHKIJ
+-------------------------
+ADDDD
+replacing A with D, ADDDD -> DDDDD
+-------------------------
+CKKCM
+-------------------------
+BCFBB
+-------------------------
+FMDIG
+-------------------------
+GGGGA
+replacing A with G, GGGGA -> GGGGG
+-------------------------
+IBMHF
+-------------------------
+IBIKB
+-------------------------
+CAMCM
+replacing A with C, CAMCM -> CCMCM
+-------------------------
+JACHA
+replacing A with J, JACHA -> JJCHJ
+-------------------------
+ICFED
+-------------------------
+BILCM
+-------------------------
+LDHAM
+replacing A with D, LDHAM -> LDHDM
+-------------------------
+DDKCK
+-------------------------
+ADMCI
+replacing A with C, ADMCI -> CDMCI
+-------------------------
+GFMGG
+-------------------------
+EBIEI
+-------------------------
+FGEKF
+-------------------------
+AEEJH
+replacing A with E, AEEJH -> EEEJH
+-------------------------
+BBCIB
+-------------------------
+CCBBC
+-------------------------
+LDIDA
+replacing A with D, LDIDA -> LDIDD
+-------------------------
+HBAJK
+replacing A with B, HBAJK -> HBBJK
+-------------------------
+MIAGG
+replacing A with G, MIAGG -> MIGGG
+-------------------------
+FAHKG
+replacing A with F, FAHKG -> FFHKG
+-------------------------
+LLLDD
+-------------------------
+BBMCD
+-------------------------
+HAMKK
+replacing A with K, HAMKK -> HKMKK
+-------------------------
+IHIIA
+replacing A with I, IHIIA -> IHIII
+-------------------------
+KILII
+-------------------------
+BAJKI
+replacing A with B, BAJKI -> BBJKI
+-------------------------
+FBFDB
+-------------------------
+KAEEM
+replacing A with E, KAEEM -> KEEEM
+-------------------------
+FCKMD
+-------------------------
+IIKHK
+-------------------------
+DDDDK
+-------------------------
+KKBAC
+replacing A with K, KKBAC -> KKBKC
+-------------------------
+BBHBH
+-------------------------
+CMHEH
+-------------------------
+LKLJL
+-------------------------
+MDICI
+-------------------------
+GFACD
+replacing A with C, GFACD -> GFCCD
+-------------------------
+BBGAE
+replacing A with B, BBGAE -> BBGBE
+-------------------------
+BMKGH
+-------------------------
+GDADJ
+replacing A with D, GDADJ -> GDDDJ
+-------------------------
+CJCCJ
+-------------------------
+AJJIH
+replacing A with J, AJJIH -> JJJIH
+-------------------------
+IAGDI
+replacing A with I, IAGDI -> IIGDI
+-------------------------
+IFIII
+-------------------------
+FEDLG
+-------------------------
+CEMAH
+replacing A with C, CEMAH -> CEMCH
+-------------------------
+GBICD
+-------------------------
+GKFAG
+replacing A with G, GKFAG -> GKFGG
+-------------------------
+GGHEI
+-------------------------
+BMALK
+replacing A with B, BMALK -> BMBLK
+-------------------------
+BACBB
+replacing A with B, BACBB -> BBCBB
+-------------------------
+AAFFE
+replacing A with F, AAFFE -> FFFFE
+-------------------------
+IBBBB
+-------------------------
+EBBBJ
+-------------------------
+JIAJM
+replacing A with J, JIAJM -> JIJJM
+-------------------------
+MMHEC
+-------------------------
+HMMMA
+replacing A with M, HMMMA -> HMMMM
+-------------------------
+CABIM
+replacing A with B, CABIM -> CBBIM
+-------------------------
+DMEMA
+replacing A with M, DMEMA -> DMEMM
+-------------------------
+EHGDK
+-------------------------
+DIJDD
+-------------------------
+JHJKD
+-------------------------
+IIIEE
+-------------------------
+HKKHM
+-------------------------
+GBGAG
+replacing A with G, GBGAG -> GBGGG
+-------------------------
+DHHHD
+-------------------------
+FLMFF
+-------------------------
+FFEFF
+-------------------------
+KFKAD
+replacing A with K, KFKAD -> KFKKD
+-------------------------
+DMHGA
+replacing A with D, DMHGA -> DMHGD
+-------------------------
+JJHHH
+-------------------------
+BHKHI
+-------------------------
+BHGGG
+-------------------------
+CEEDC
+-------------------------
+DJEBB
+-------------------------
+FCFMM
+-------------------------
+BFLEM
+-------------------------
+BMIKG
+-------------------------
+BCBII
+-------------------------
+ACMMA
+replacing A with M, ACMMA -> MCMMM
+-------------------------
+FFDFF
+-------------------------
+MJHGH
+-------------------------
+KDFAF
+replacing A with F, KDFAF -> KDFFF
+-------------------------
+FCAFF
+replacing A with F, FCAFF -> FCFFF
+-------------------------
+JLIAK
+replacing A with I, JLIAK -> JLIIK
+-------------------------
+IEKEK
+-------------------------
+BBJBB
+-------------------------
+ELLGL
+-------------------------
+KHEKK
+-------------------------
+CIGII
+-------------------------
+JCHJL
+-------------------------
+KKLBB
+-------------------------
+FIKMJ
+-------------------------
+BCFFC
+-------------------------
+KKFMK
+-------------------------
+MGLMG
+-------------------------
+JAGAJ
+replacing A with J, JAGAJ -> JJGJJ
+-------------------------
+JEHHH
+-------------------------
+LLLHF
+-------------------------
+FFAAB
+replacing A with F, FFAAB -> FFFFB
+-------------------------
+FFHFA
+replacing A with F, FFHFA -> FFHFF
+-------------------------
+MICMA
+replacing A with M, MICMA -> MICMM
+-------------------------
+ABCLE
+replacing A with B, ABCLE -> BBCLE
+-------------------------
+EEIIL
+-------------------------
+JJCBC
+-------------------------
+LJLIL
+-------------------------
+KGEGK
+-------------------------
+FFIIA
+replacing A with F, FFIIA -> FFIIF
+-------------------------
+FEKKJ
+-------------------------
+ILBMM
+-------------------------
+DFACJ
+replacing A with C, DFACJ -> DFCCJ
+-------------------------
+CHBHA
+replacing A with H, CHBHA -> CHBHH
+-------------------------
+JJCJH
+-------------------------
+EFMIB
+-------------------------
+MMAGM
+replacing A with M, MMAGM -> MMMGM
+-------------------------
+BBGDI
+-------------------------
+EEBCG
+-------------------------
+DFAAC
+replacing A with F, DFAAC -> DFFFC
+-------------------------
+IGLFE
+-------------------------
+KHLHA
+replacing A with H, KHLHA -> KHLHH
+-------------------------
+KABKM
+replacing A with K, KABKM -> KKBKM
+-------------------------
+IIMMA
+replacing A with I, IIMMA -> IIMMI
+-------------------------
+FKFFE
+-------------------------
+GEMMM
+-------------------------
+FEAHD
+replacing A with D, FEAHD -> FEDHD
+-------------------------
+GFFFG
+-------------------------
+CGCEL
+-------------------------
+GKKII
+-------------------------
+LCCCC
+-------------------------
+DDHDD
+-------------------------
+KHIEE
+-------------------------
+IGIGB
+-------------------------
+FJFHJ
+-------------------------
+BDMDB
+-------------------------
+HBFBA
+replacing A with B, HBFBA -> HBFBB
+-------------------------
+FDDDB
+-------------------------
+KKLAK
+replacing A with K, KKLAK -> KKLKK
+-------------------------
+GAFBA
+replacing A with G, GAFBA -> GGFBG
+-------------------------
+EJEEE
+-------------------------
+DLFFI
+-------------------------
+AEKIL
+replacing A with E, AEKIL -> EEKIL
+-------------------------
+FFFFC
+-------------------------
+KBBCC
+-------------------------
+AAEEG
+replacing A with E, AAEEG -> EEEEG
+-------------------------
+CJDCJ
+-------------------------
+FLHFF
+-------------------------
+EBEBG
+-------------------------
+MMLAL
+replacing A with L, MMLAL -> MMLLL
+-------------------------
+LLLLC
+-------------------------
+IBABJ
+replacing A with B, IBABJ -> IBBBJ
+-------------------------
+JDBDH
+-------------------------
+AGDFK
+replacing A with D, AGDFK -> DGDFK
+-------------------------
+AACFL
+replacing A with L, AACFL -> LLCFL
+-------------------------
+BKJMD
+-------------------------
+ACALL
+replacing A with L, ACALL -> LCLLL
+-------------------------
+MFAGJ
+replacing A with F, MFAGJ -> MFFGJ
+-------------------------
+MMJGJ
+-------------------------
+AHHHF
+replacing A with H, AHHHF -> HHHHF
+-------------------------
+KDIKD
+-------------------------
+EBEHA
+replacing A with E, EBEHA -> EBEHE
+-------------------------
+DMDIA
+replacing A with D, DMDIA -> DMDID
+-------------------------
+LLLEL
+-------------------------
+GEEEL
+-------------------------
+BHILF
+-------------------------
+GFAGA
+replacing A with G, GFAGA -> GFGGG
+-------------------------
+DAJLA
+replacing A with L, DAJLA -> DLJLL
+-------------------------
+LLBKK
+-------------------------
+BBDKC
+-------------------------
+KMAFM
+replacing A with M, KMAFM -> KMMFM
+-------------------------
+CLAAA
+replacing A with L, CLAAA -> CLLLL
+-------------------------
+FFFFJ
+-------------------------
+CDIDD
+-------------------------
+EEFGE
+-------------------------
+HEHHH
+-------------------------
+AHHHH
+replacing A with H, AHHHH -> HHHHH
+-------------------------
+LFMEA
+replacing A with E, LFMEA -> LFMEE
+-------------------------
+LLJLL
+-------------------------
+IJHEC
+-------------------------
+GGDGI
+-------------------------
+HFEFE
+-------------------------
+FLCAL
+replacing A with L, FLCAL -> FLCLL
+-------------------------
+CGCCC
+-------------------------
+EGBML
+-------------------------
+CCCHH
+-------------------------
+FJFLF
+-------------------------
+BBLBF
+-------------------------
+LBLGL
+-------------------------
+AIIIL
+replacing A with I, AIIIL -> IIIIL
+-------------------------
+KGDGD
+-------------------------
+MMMMH
+-------------------------
+JJCJJ
+-------------------------
+EEHEE
+-------------------------
+JLLAJ
+replacing A with J, JLLAJ -> JLLJJ
+-------------------------
+ADJMH
+replacing A with D, ADJMH -> DDJMH
+-------------------------
+KBAEH
+replacing A with B, KBAEH -> KBBEH
+-------------------------
+BGGFG
+-------------------------
+DAHKA
+replacing A with K, DAHKA -> DKHKK
+-------------------------
+DBLLL
+-------------------------
+BIJIK
+-------------------------
+ABLLJ
+replacing A with L, ABLLJ -> LBLLJ
+-------------------------
+GGGGH
+-------------------------
+DLBFK
+-------------------------
+FMDMD
+-------------------------
+DCAJK
+replacing A with C, DCAJK -> DCCJK
+-------------------------
+ECEEI
+-------------------------
+DMJJD
+-------------------------
+EJGGK
+-------------------------
+LJJLF
+-------------------------
+MFMCB
+-------------------------
+CCCAC
+replacing A with C, CCCAC -> CCCCC
+-------------------------
+IIAIA
+replacing A with I, IIAIA -> IIIII
+-------------------------
+MGHFL
+-------------------------
+GDABE
+replacing A with B, GDABE -> GDBBE
+-------------------------
+IHHHI
+-------------------------
+IIIAI
+replacing A with I, IIIAI -> IIIII
+-------------------------
+EBLLF
+-------------------------
+EEIEI
+-------------------------
+MMBAM
+replacing A with M, MMBAM -> MMBMM
+-------------------------
+KHDMJ
+-------------------------
+MMMKA
+replacing A with M, MMMKA -> MMMKM
+-------------------------
+IIJEI
+-------------------------
+LEHLG
+-------------------------
+ABEBE
+replacing A with B, ABEBE -> BBEBE
+-------------------------
+IIIMI
+-------------------------
+BBBEA
+replacing A with B, BBBEA -> BBBEB
+-------------------------
+KLAKA
+replacing A with K, KLAKA -> KLKKK
+-------------------------
+ALJKG
+replacing A with G, ALJKG -> GLJKG
+-------------------------
+AKIBI
+replacing A with I, AKIBI -> IKIBI
+-------------------------
+IHIKI
+-------------------------
+CAKKK
+replacing A with K, CAKKK -> CKKKK
+-------------------------
+DJJCD
+-------------------------
+AHKKH
+replacing A with H, AHKKH -> HHKKH
+-------------------------
+HFFFJ
+-------------------------
+BJHCK
+-------------------------
+AHAFB
+replacing A with H, AHAFB -> HHHFB
+-------------------------
+DCFIM
+-------------------------
+MJMAJ
+replacing A with J, MJMAJ -> MJMJJ
+-------------------------
+ACCCH
+replacing A with C, ACCCH -> CCCCH
+-------------------------
+HFFFH
+-------------------------
+CFAMJ
+replacing A with C, CFAMJ -> CFCMJ
+-------------------------
+LMLCL
+-------------------------
+KLLMF
+-------------------------
+CACCI
+replacing A with C, CACCI -> CCCCI
+-------------------------
+IIFGF
+-------------------------
+DBLHD
+-------------------------
+LMMGL
+-------------------------
+KMKKK
+-------------------------
+GEGDG
+-------------------------
+MCGJG
+-------------------------
+LFKFL
+-------------------------
+JGIBM
+-------------------------
+CCFED
+-------------------------
+EEEAB
+replacing A with E, EEEAB -> EEEEB
+-------------------------
+MMIME
+-------------------------
+JLFEL
+-------------------------
+DBBBB
+-------------------------
+KKFFF
+-------------------------
+FDDDA
+replacing A with D, FDDDA -> FDDDD
+-------------------------
+FAAME
+replacing A with M, FAAME -> FMMME
+-------------------------
+DLDLJ
+-------------------------
+BJBJJ
+-------------------------
+FMFFF
+-------------------------
+CEAEE
+replacing A with E, CEAEE -> CEEEE
+-------------------------
+MMBGG
+-------------------------
+ELDAE
+replacing A with E, ELDAE -> ELDEE
+-------------------------
+ICMAI
+replacing A with I, ICMAI -> ICMII
+-------------------------
+HHHHK
+-------------------------
+EGCEE
+-------------------------
+BBKMD
+-------------------------
+CEGBM
+-------------------------
+BIEMH
+-------------------------
+MFCLG
+-------------------------
+HMAHJ
+replacing A with H, HMAHJ -> HMHHJ
+-------------------------
+MHGGH
+-------------------------
+MGGMG
+-------------------------
+JHEEI
+-------------------------
+JJIII
+-------------------------
+LGALL
+replacing A with L, LGALL -> LGLLL
+-------------------------
+CMCMH
+-------------------------
+IAFAF
+replacing A with F, IAFAF -> IFFFF
+-------------------------
+JBFHD
+-------------------------
+HAFKD
+replacing A with D, HAFKD -> HDFKD
+-------------------------
+HCJEK
+-------------------------
+HHMAG
+replacing A with H, HHMAG -> HHMHG
+-------------------------
+EDADC
+replacing A with D, EDADC -> EDDDC
+-------------------------
+HFAFH
+replacing A with F, HFAFH -> HFFFH
+-------------------------
+JKDDC
+-------------------------
+HMMLM
+-------------------------
+KALGL
+replacing A with L, KALGL -> KLLGL
+-------------------------
+BKKIA
+replacing A with K, BKKIA -> BKKIK
+-------------------------
+CDFGD
+-------------------------
+CBCBA
+replacing A with B, CBCBA -> CBCBB
+-------------------------
+HMHBM
+-------------------------
+HILHH
+-------------------------
+HCFFF
+-------------------------
+MBCHB
+-------------------------
+HEHAE
+replacing A with E, HEHAE -> HEHEE
+-------------------------
+HMLIB
+-------------------------
+LEHJG
+-------------------------
+EEMAE
+replacing A with E, EEMAE -> EEMEE
+-------------------------
+GGBHH
+-------------------------
+LMEGJ
+-------------------------
+AKHKA
+replacing A with K, AKHKA -> KKHKK
+-------------------------
+KKHHK
+-------------------------
+DHEGC
+-------------------------
+DLDLA
+replacing A with D, DLDLA -> DLDLD
+-------------------------
+DFKGM
+-------------------------
+GIAHI
+replacing A with I, GIAHI -> GIIHI
+-------------------------
+IJIID
+-------------------------
+BGJIL
+-------------------------
+CFCFC
+-------------------------
+HCDHF
+-------------------------
+GBCKJ
+-------------------------
+HDGID
+-------------------------
+BKBBK
+-------------------------
+IHHHH
+-------------------------
+MLLMI
+-------------------------
+MEGLE
+-------------------------
+BGLCD
+-------------------------
+EEEKK
+-------------------------
+ELLEE
+-------------------------
+FKCDE
+-------------------------
+GAKMM
+replacing A with M, GAKMM -> GMKMM
+-------------------------
+MHDCD
+-------------------------
+JLMIC
+-------------------------
+ICCCC
+-------------------------
+MAMMM
+replacing A with M, MAMMM -> MMMMM
+-------------------------
+IIFKF
+-------------------------
+HHHCH
+-------------------------
+LLEFL
+-------------------------
+LBDJB
+-------------------------
+ACHHH
+replacing A with H, ACHHH -> HCHHH
+-------------------------
+LMIFH
+-------------------------
+EDFFA
+replacing A with F, EDFFA -> EDFFF
+-------------------------
+MIHIC
+-------------------------
+LGAGH
+replacing A with G, LGAGH -> LGGGH
+-------------------------
+DDKED
+-------------------------
+LCKJK
+-------------------------
+FAKMF
+replacing A with F, FAKMF -> FFKMF
+-------------------------
+KBGFD
+-------------------------
+MIIML
+-------------------------
+MGGAM
+replacing A with G, MGGAM -> MGGGM
+-------------------------
+CHHFH
+-------------------------
+DLLCD
+-------------------------
+FFLLF
+-------------------------
+MMFBF
+-------------------------
+GGCHA
+replacing A with G, GGCHA -> GGCHG
+-------------------------
+AJAJA
+replacing A with J, AJAJA -> JJJJJ
+-------------------------
+JHJAH
+replacing A with H, JHJAH -> JHJHH
+-------------------------
+IFLII
+-------------------------
+GGCCI
+-------------------------
+JGKMK
+-------------------------
+IECHD
+-------------------------
+FBBBF
+-------------------------
+CAKMC
+replacing A with C, CAKMC -> CCKMC
+-------------------------
+IMIMG
+-------------------------
+HGAJG
+replacing A with G, HGAJG -> HGGJG
+-------------------------
+HHFHH
+-------------------------
+EBFLK
+-------------------------
+HLHLH
+-------------------------
+GAAGG
+replacing A with G, GAAGG -> GGGGG
+-------------------------
+ACLML
+replacing A with L, ACLML -> LCLML
+-------------------------
+ADGCC
+replacing A with C, ADGCC -> CDGCC
+-------------------------
+DBJBD
+-------------------------
+BKKEK
+-------------------------
+KDIMC
+-------------------------
+IHAJF
+replacing A with F, IHAJF -> IHFJF
+-------------------------
+JCCCC
+-------------------------
+MJLJJ
+-------------------------
+BGHEK
+-------------------------
+KKKAK
+replacing A with K, KKKAK -> KKKKK
+-------------------------
+JHLDK
+-------------------------
+LFFLL
+-------------------------
+BBALI
+replacing A with B, BBALI -> BBBLI
+-------------------------
+BBDAB
+replacing A with B, BBDAB -> BBDBB
+-------------------------
+EKKKD
+-------------------------
+BJBLA
+replacing A with B, BJBLA -> BJBLB
+-------------------------
+DKGJI
+-------------------------
+ACJGG
+replacing A with G, ACJGG -> GCJGG
+-------------------------
+GABEI
+replacing A with B, GABEI -> GBBEI
+-------------------------
+MDEHL
+-------------------------
+MHIMA
+replacing A with M, MHIMA -> MHIMM
+-------------------------
+AAAII
+replacing A with I, AAAII -> IIIII
+-------------------------
+MCHFB
+-------------------------
+DADMA
+replacing A with D, DADMA -> DDDMD
+-------------------------
+JMGJG
+-------------------------
+DLDJF
+-------------------------
+JJFJJ
+-------------------------
+AFEHC
+replacing A with C, AFEHC -> CFEHC
+-------------------------
+JMDJJ
+-------------------------
+DDDEG
+-------------------------
+JGBAA
+replacing A with J, JGBAA -> JGBJJ
+-------------------------
+MBBMB
+-------------------------
+AGAAG
+replacing A with G, AGAAG -> GGGGG
+-------------------------
+BAGAG
+replacing A with G, BAGAG -> BGGGG
+-------------------------
+GIELM
+-------------------------
+BDDEJ
+-------------------------
+IEECK
+-------------------------
+LLGDA
+replacing A with L, LLGDA -> LLGDL
+-------------------------
+EECCE
+-------------------------
+MEKBA
+replacing A with B, MEKBA -> MEKBB
+-------------------------
+IKAAF
+replacing A with K, IKAAF -> IKKKF
+-------------------------
+EKJLG
+-------------------------
+KECIA
+replacing A with C, KECIA -> KECIC
+-------------------------
+DAJFJ
+replacing A with J, DAJFJ -> DJJFJ
+-------------------------
+JLAJI
+replacing A with J, JLAJI -> JLJJI
+-------------------------
+GBGBB
+-------------------------
+HDDCH
+-------------------------
+CACLC
+replacing A with C, CACLC -> CCCLC
+-------------------------
+CKCKC
+-------------------------
+AKKLL
+replacing A with K, AKKLL -> KKKLL
+-------------------------
+FFMME
+-------------------------
+GBAEG
+replacing A with G, GBAEG -> GBGEG
+-------------------------
+BELMM
+-------------------------
+HHJHH
+-------------------------
+ABICL
+replacing A with B, ABICL -> BBICL
+-------------------------
+HELMH
+-------------------------
+AHIDH
+replacing A with H, AHIDH -> HHIDH
+-------------------------
+HFGIK
+-------------------------
+MFCIL
+-------------------------
+AFGIJ
+replacing A with F, AFGIJ -> FFGIJ
+-------------------------
+JDGGD
+-------------------------
+GKKDA
+replacing A with K, GKKDA -> GKKDK
+-------------------------
+BAKBB
+replacing A with B, BAKBB -> BBKBB
+-------------------------
+KMFMF
+-------------------------
+KEAMH
+replacing A with E, KEAMH -> KEEMH
+-------------------------
+LAFIC
+replacing A with C, LAFIC -> LCFIC
+-------------------------
+ILBEM
+-------------------------
+MDMGB
+-------------------------
+JBKKK
+-------------------------
+GBGGG
+-------------------------
+ABBBL
+replacing A with B, ABBBL -> BBBBL
+-------------------------
+JBJFA
+replacing A with J, JBJFA -> JBJFJ
+-------------------------
+EGMHC
+-------------------------
+AAHLH
+replacing A with H, AAHLH -> HHHLH
+-------------------------
+AJIBM
+replacing A with B, AJIBM -> BJIBM
+-------------------------
+ECBHH
+-------------------------
+MBBMM
+-------------------------
+HJGGB
+-------------------------
+KKKEK
+-------------------------
+KHIJJ
+253473930
