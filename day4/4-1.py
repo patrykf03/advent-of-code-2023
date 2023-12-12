@@ -1,17 +1,12 @@
 import regex as re
 import sys
 
-
 # load input as array of strings
 with open(sys.argv[1]) as file:
     taskInput = file.readlines()
 
 # parse input into a list of tuplets (winning, given)
-scratchCards = [
-    re.findall("\d+", part)
-    for card in taskInput
-    for part in card.split(":")[1].split("|")
-]
+scratchCards = [re.findall("\d+", part) for card in taskInput for part in card.split(":")[1].split("|")]
 scratchCards = list(zip(scratchCards[::2], scratchCards[1::2]))
 
 globalScore = 0  # overall score

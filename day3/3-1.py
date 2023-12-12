@@ -13,6 +13,7 @@ with open(sys.argv[1]) as file:
     for row, col in symbols:  # go over every special
         for nearSymbolRow in range(row - 1, row + 2):  # go over the 3 rows that surround the special
             for foundNumber in re.finditer("\d+", partMatrix[nearSymbolRow]):  # go over every number in row
-                if col in set(range(*(tuple(map(sum, zip(foundNumber.span(), (-1, +1))))))):  # check if special is in the number +/- 1 position
+                if col in set(range(*(tuple(map(sum, zip(foundNumber.span(), (
+                        -1, +1))))))):  # check if special is in the number +/- 1 position
                     partSum += int(foundNumber.group())  # add to sum if it is
     print(partSum)

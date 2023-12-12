@@ -7,11 +7,7 @@ with open(sys.argv[1]) as file:
     taskInput = file.readlines()
 
 # parse input into a list of tuplets (winning, given)
-scratchCards = [
-    re.findall("\d+", part)
-    for card in taskInput
-    for part in card.split(":")[1].split("|")
-]
+scratchCards = [re.findall("\d+", part) for card in taskInput for part in card.split(":")[1].split("|")]
 scratchCards = list(zip(scratchCards[::2], scratchCards[1::2]))
 
 cardScores = [0] * (len(scratchCards))  # per card score list
@@ -25,6 +21,7 @@ for id, scratchCard in enumerate(scratchCards):
             cardScore += 1
     cardScores[id] = cardScore
 
+
 # make clone cards and return the sum of everything under
 @cache
 def recurseCount(n):
@@ -33,6 +30,7 @@ def recurseCount(n):
     for m in range(cardScores[n]):
         count += recurseCount(n + m + 1)
     return count
+
 
 totalCardCount = 0  # Initialize total card count
 

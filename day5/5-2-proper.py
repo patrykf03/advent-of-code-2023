@@ -12,21 +12,14 @@ seedsLists = list(
     zip(
         [int(num) for num in seedsLists[::2]],
         [int(m) + int(n) - 1 for m, n in zip(seedsLists[::2], seedsLists[1::2])],
-    ),
-)
+    ),)
 
 # convert to list of (sourceStart,sourceEnd,destStart)
-maps = [
-[
-        tuple([
-                int(number.split()[1]),
-                int(number.split()[1]) + int(number.split()[2]) - 1,
-                int(number.split()[0])]
-        )
-        for number in map.split("\n")[1:]
-    ]
-    for map in puzzleData[1:]
-]
+maps = [[
+    tuple([int(number.split()[1]),
+           int(number.split()[1]) + int(number.split()[2]) - 1,
+           int(number.split()[0])]) for number in map.split("\n")[1:]
+] for map in puzzleData[1:]]
 
 
 def applyOffset(sourceStart, destStart, range):

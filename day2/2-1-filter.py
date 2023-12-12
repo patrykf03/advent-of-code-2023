@@ -12,7 +12,7 @@ with open(sys.argv[1]) as file:
                 if ('green' in colour) and (int(''.join(filter(str.isdigit, colour)))) > 13:
                     isValid = False
                 if ('blue' in colour) and (int(''.join(filter(str.isdigit, colour)))) > 14:
-                    isValid = False                            
+                    isValid = False
         if isValid:
-            validSum += gameNumber+1
+            validSum += gameNumber + 1
     print(validSum)

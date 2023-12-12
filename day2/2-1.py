@@ -15,7 +15,7 @@ with open(sys.argv[1]) as file:
                         isValid = False
                 if ('blue' in colour):
                     if (int(re.findall('\d*(?=blue)', colour)[0])) > 14:
-                        isValid = False                 
+                        isValid = False
         if isValid:
-            validSum += gameNumber+1
+            validSum += gameNumber + 1
     print(validSum)

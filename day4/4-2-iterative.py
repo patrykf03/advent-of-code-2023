@@ -6,11 +6,7 @@ with open(sys.argv[1]) as file:
     taskInput = file.readlines()
 
 # parse input into a list of tuplets (winning, given)
-scratchCards = [
-    re.findall("\d+", part)
-    for card in taskInput
-    for part in card.split(":")[1].split("|")
-]
+scratchCards = [re.findall("\d+", part) for card in taskInput for part in card.split(":")[1].split("|")]
 scratchCards = list(zip(scratchCards[::2], scratchCards[1::2]))
 
 cardScores = [0] * (len(scratchCards))  # per card score list
@@ -36,6 +32,5 @@ while stack:
     if cardScores[n] != 0:
         for m in range(cardScores[n]):
             stack.append(n + m + 1)
-
 
 print(cardCount)
